@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import Constants from 'expo-constants';
 import {convertFirebaseTimeStampToJS} from './helpers/Functions'
 
+//toimii
 
 export default function App() {
 

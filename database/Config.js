@@ -20,5 +20,3 @@ export {
     onSnapshot,
     orderBy
 }
-
-//console.log("Firebase toimii!")
